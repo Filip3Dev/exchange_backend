@@ -1,0 +1,8 @@
+{
+  "DATE_INVALID": "Formato inválido de data.",
+  "AMOUNT_INVALID": "Quantidade inválida para este tipo de entrada.",
+  "SUFFICIENT_BALANCE": "Não há saldo suficiente para realizar esta operação.",
+  "NOT_ALLOWED": "Operação não permitida.",
+  "ACCOUNT_OR_CUSTOMER_INVALID": "Não encontrada a referência de AccountId ou CustomerId",
+  "ACCESS_DENIED_ACCOUNT":"Acesso negado para esta conta"
+}

@@ -1,0 +1,8 @@
+{
+  "DATE_INVALID": "Invalid date format.",
+  "AMOUNT_INVALID": "Amount invalid for this entry type.",
+  "SUFFICIENT_BALANCE": "There is not enough balance to carry out this operation.",
+  "NOT_ALLOWED": "Operation not allowed.",
+  "ACCOUNT_OR_CUSTOMER_INVALID": "AccountId or CustomerId reference not found",
+  "ACCESS_DENIED_ACCOUNT":"Access denied for this account"
+}
